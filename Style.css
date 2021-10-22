@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: white;
+    bottom: 0;
+    background: aquablue;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 50px;
+    font-family: cursive;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+p {
+    font-size: 17px;
+}
+a {
+    text-decoration: none;
+    color: darkslategray;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.article:hover {
+    color: fuchsia;
+}
+
+#Writings a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: aqua !important;
+
+}
+
+#Contact {
+    background: firebrick;
+
+}
+
+#Contact iframe {
+    width: 100%;
+}
+
+.Contact_1 h3 {
+    display: inline;
+
+}
+
+.Contact_1 a {
+    color: white;
+    text-shadow: none;
+
+}
